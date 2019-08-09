@@ -1,2 +1,5 @@
 # nativescript-vue-bug-report
-vue computed doesn't work when Multi-Window mode in android
+
+This repo is for bug report.
+
+It works only in andorid.
